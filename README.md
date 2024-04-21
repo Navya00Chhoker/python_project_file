@@ -1,2 +1,2 @@
 # python_project_file
-created this repo for pyhton project file. 
+created this repo for python project file. 
